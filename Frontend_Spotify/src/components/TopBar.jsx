@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const TopBar = ({ onSearchResults }) => {
   const [searchTerm, setSearchTerm] = useState('');
-  const API_KEY = ''; // Agrega tu clave de API aquí.
+  const API_KEY = 'AIzaSyDjjC8jEzAnkZ1mameXn9Q41TfOidmCfgQ'; // Agrega tu clave de API aquí.
 
   const handleSearch = async () => {
     if (searchTerm.trim()) {
