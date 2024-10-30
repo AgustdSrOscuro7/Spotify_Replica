@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import PlaylistCard from './PlaylistCard';
 
-const API_KEY = 'AIzaSyDjjC8jEzAnkZ1mameXn9Q41TfOidmCfgQ';
+const API_KEY = 'AIzaSyDjjC8jEzAnkZ1mameXn9Q41TfOidmCfgQ3';
 const GENRES = ['House', 'Funk', 'Salsa', 'Rock', 'Jazz'];
 
 const PlayList = () => {
